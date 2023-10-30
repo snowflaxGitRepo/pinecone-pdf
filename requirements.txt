@@ -1,0 +1,7 @@
+pinecone-client
+unstructured[pdf]
+sentence-transformers
+openai
+streamlit
+langchain
+flask
