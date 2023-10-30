@@ -9,3 +9,6 @@ creating a highly efficient chatbot that can answer queries from its own documen
 
 
 [Live Demo Link](http://122.169.118.18:8501/)
+
+
+[Chatbot with Langchain, ChatGPT, Pinecone, and Streamlit.webm](https://github.com/snowflaxGitRepo/pinecone-pdf/assets/146845568/1c51770e-874c-4bf8-8a1a-2fd5b929b13e)
