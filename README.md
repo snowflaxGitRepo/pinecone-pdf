@@ -4,3 +4,7 @@ creating a highly efficient chatbot that can answer queries from its own documen
 
 
 [Open Notebook](https://github.com/snowflaxGitRepo/pinecone-pdf/blob/main/README.ipynb)
+
+
+
+[Live Demo Link](http://122.169.118.18:8501/)
