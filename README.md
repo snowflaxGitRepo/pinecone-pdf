@@ -7,6 +7,7 @@ creating a highly efficient chatbot that can answer queries from its own documen
 
 ![image](https://github.com/snowflaxGitRepo/pinecone-pdf/assets/146845568/c7f39b46-46c8-41b9-8bb0-8726c6c48fe2)
 
+[Sample PDF](https://github.com/snowflaxGitRepo/pinecone-pdf/blob/main/data/faq.pdf)
 
 [Live Demo Link](http://122.169.118.18:8501/)
 
